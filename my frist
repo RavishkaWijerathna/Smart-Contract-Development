@@ -1,0 +1,6 @@
+pragma solidity ^0.7.5;
+
+contract hello world { 
+function hello() public pure returns(string memory){returns ""hello world}
+
+}
